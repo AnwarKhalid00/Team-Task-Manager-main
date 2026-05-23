@@ -35,7 +35,7 @@ GitHub Repo: https://github.com/Manas1718/Team-Task-Manager
 ## Installation
 
 # Clone the repository
-git clone https://github.com/Manas1718/Team-Task-Manager.git
+git clone https://github.com/AnwarKhalid00/Team-Task-Manager-main.git
 cd Team-Task-Manager
 
 # Install backend dependencies
